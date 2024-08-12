@@ -1,6 +1,6 @@
 {
   "name": "isar",
-  "version": "4.0.0-dev.14",
+  "version": "3.1.0+1",
   "files": [
     "isar.wasm"
   ]
